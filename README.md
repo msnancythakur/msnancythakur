@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 💫 About Me:
 # Hi there, I'm Nancy Thakur - aka Nancy 👋
 ## I'm a Student, Developer and Graphic Designer!!
